@@ -1,0 +1,5 @@
+pulse:x:124:130:PulseAudio daemon,,,:/var/run/pulse:/usr/sbin/nologin
+stunnel4:x:119:126::/var/run/stunnel4:/usr/sbin/nologin
+vboxadd:x:998:1::/var/run/vboxadd:/bin/false
+snapd-range-524288-root:x:524288:524288::/nonexistent:/usr/bin/false
+snap_daemon:x:584788:584788::/nonexistent:/usr/bin/false
